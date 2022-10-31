@@ -33,7 +33,11 @@
 <!-- wp:column {"width":"100%","layout":{"type":"default"}} -->
 <div class="wp-block-column" style="flex-basis:100%"><!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#34dd87"},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"100px","lineHeight":"1"}}} -->
 <h2 class="has-text-align-center has-text-color" style="color:#34dd87;font-size:100px;font-style:normal;font-weight:500;line-height:1">43</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
+<!-- /wp:heading -->
+  </div>
+<!-- /wp:column -->
+  </div>
+<!-- /wp:columns -->
+</div>
 <!-- /wp:group -->
+ 
